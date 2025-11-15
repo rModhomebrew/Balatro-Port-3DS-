@@ -1,4 +1,4 @@
-# Balatro-Port-3DS-
+# Balatro-Port-3DS
 3DS Balatro Port By arc.ju on discord.
 How to install? 
 1. Download file from Relase
