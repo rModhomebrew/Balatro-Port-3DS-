@@ -1,7 +1,8 @@
 # Balatro-Port-3DS
 3DS Balatro Port By arc.ju on discord.
+
 How to install? 
-1. Download file from Relase
+1. Download file from Release
 2. Put Gbalatro in your cias folder on your SD card
 3. Open FBI on your 3DS
 4. Go to your cias folder
